@@ -1,0 +1,11 @@
+th,  td,table {
+    text-align: center;
+    color: red;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 250px;
+    padding: 20px;
+}
+  
+  
+  
